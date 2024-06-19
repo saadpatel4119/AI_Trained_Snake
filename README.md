@@ -1,2 +1,2 @@
 **Teach AI To Play Snake Game with Reinforcement Learning!**
-- In this project with the help of Reinforcement Learning, I was able to train the snake with the help of an agent due to which its food grabing functionality enhances and helps the snake to achieve better scores game by game.
+- In this project, I successfully utilized Reinforcement Learning to enhance the performance of a snake in the classic snake game. By employing a trained agent, the snake's ability to locate and consume food was significantly improved. This optimization resulted in progressively higher scores with each subsequent game, demonstrating the effectiveness of the reinforcement learning approach in refining the snake's behavior and decision-making processes.
